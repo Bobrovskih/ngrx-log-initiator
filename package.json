@@ -1,0 +1,33 @@
+{
+  "name": "ngrx-log-initiator",
+  "version": "1.0.0-alpha.1",
+  "description": "Adding initiator class and method name to ngrx action",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "author": "Bobrovskih A. <bobrovskih.artur@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/core": "^7.2.13",
+    "@ngrx/effects": "^7.4.0",
+    "rxjs": "^6.4.0",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "keywords": [
+    "angular",
+    "ngrx",
+    "log",
+    "debug",
+    "action",
+    "effect"
+  ],
+  "homepage": "https://github.com/Bobrovskih/ngrx-log-initiator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobrovskih/ngrx-log-initiator.git"
+  }
+}
