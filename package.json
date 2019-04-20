@@ -1,6 +1,6 @@
 {
   "name": "ngrx-log-initiator",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "Adding initiator class and method name to ngrx action",
   "main": "index.js",
   "typings": "index.d.ts",
